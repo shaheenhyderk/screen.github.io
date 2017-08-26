@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Screen Printing
 
-You can use the [editor on GitHub](https://github.com/shaheenhyderk/screen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://shaheenhyderk.github.io/sc.jpg" width="700" height="400">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is used to print names, designs, ect. In this "fabric paint" is used. It is very simple compared to the old techniques.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Steps For Screen Printing
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+$ Create a picture/name using cut studio
+$ Print it in vinyl cutter
+$ Stick it on netted frame
+$ Pour some fabric colour
+$ Swipe it
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We printed "FABLAB MESCE" on a T-shirt.
 
-### Jekyll Themes
+<img src="https://shaheenhyderk.github.io/IMG_20170822_175140[1].jpg" width="500" height="500">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shaheenhyderk/screen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src="https://shaheenhyderk.github.io/IMG_20170822_175124[1].jpg" width="500" height="500">
 
-### Support or Contact
+<img src="https://shaheenhyderk.github.io/IMG_20170822_175156[1].jpg" width="500" height="500">
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### After print
+
+<img src="https://shaheenhyderk.github.io/852238393_119549[1].jpg" width="500" height="500">
+
